@@ -1,0 +1,202 @@
+.macbook-pro {
+    position: relative;
+    width: 1491px;
+    height: 886px;
+    background-color: #ffffff;
+  }
+  
+  .macbook-pro .overlap {
+    position: absolute;
+    width: 999px;
+    height: 110px;
+    top: 716px;
+    left: 246px;
+    background-image: url(./img/rectangle-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .macbook-pro .text-wrapper {
+    position: absolute;
+    top: 41px;
+    left: 28px;
+    font-family: "Work Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--monoblack-60);
+    font-size: 21px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .overlap-group {
+    position: absolute;
+    width: 485px;
+    height: 110px;
+    top: 444px;
+    left: 247px;
+  }
+  
+  .macbook-pro .rectangle {
+    position: absolute;
+    width: 485px;
+    height: 110px;
+    top: 0;
+    left: 0;
+  }
+  
+  .macbook-pro .div {
+    position: absolute;
+    top: 27px;
+    left: 27px;
+    font-family: var(--header-2-font-family);
+    font-weight: var(--header-2-font-weight);
+    color: var(--monoblack-100);
+    font-size: var(--header-2-font-size);
+    letter-spacing: var(--header-2-letter-spacing);
+    line-height: var(--header-2-line-height);
+    white-space: nowrap;
+    font-style: var(--header-2-font-style);
+  }
+  
+  .macbook-pro .p {
+    position: absolute;
+    width: 383px;
+    top: 54px;
+    left: 27px;
+    font-family: var(--body-font-family);
+    font-weight: var(--body-font-weight);
+    color: var(--monoblack-60);
+    font-size: var(--body-font-size);
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+    font-style: var(--body-font-style);
+  }
+  
+  .macbook-pro .overlap-2 {
+    position: absolute;
+    width: 485px;
+    height: 110px;
+    top: 580px;
+    left: 247px;
+  }
+  
+  .macbook-pro .overlap-3 {
+    position: absolute;
+    width: 485px;
+    height: 110px;
+    top: 444px;
+    left: 760px;
+  }
+  
+  .macbook-pro .overlap-4 {
+    position: absolute;
+    width: 485px;
+    height: 110px;
+    top: 580px;
+    left: 760px;
+  }
+  
+  .macbook-pro .text-wrapper-2 {
+    position: absolute;
+    top: 23px;
+    left: 74px;
+    font-family: var(--header-1-font-family);
+    font-weight: var(--header-1-font-weight);
+    color: #000000;
+    font-size: var(--header-1-font-size);
+    letter-spacing: var(--header-1-letter-spacing);
+    line-height: var(--header-1-line-height);
+    font-style: var(--header-1-font-style);
+  }
+  
+  .macbook-pro .overlap-5 {
+    position: absolute;
+    width: 246px;
+    height: 191px;
+    top: 64px;
+    left: 668px;
+  }
+  
+  .macbook-pro .welcome-to-stu-how {
+    position: absolute;
+    top: 155px;
+    left: 0;
+    font-family: "Work Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    line-height: normal;
+  }
+  
+  .macbook-pro .span {
+    font-weight: var(--header-2-font-weight);
+    letter-spacing: var(--header-2-letter-spacing);
+    font-family: var(--header-2-font-family);
+    font-style: var(--header-2-font-style);
+    line-height: var(--header-2-line-height);
+    font-size: var(--header-2-font-size);
+  }
+  
+  .macbook-pro .text-wrapper-3 {
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    letter-spacing: var(--body-letter-spacing);
+    font-style: var(--body-font-style);
+    font-weight: var(--body-font-weight);
+    line-height: var(--body-line-height);
+  }
+  
+  .macbook-pro .stu-icon-black {
+    position: absolute;
+    width: 109px;
+    height: 106px;
+    top: 69px;
+    left: 23px;
+  }
+  
+  .macbook-pro .img {
+    position: absolute;
+    width: 115px;
+    height: 112px;
+    top: -2px;
+    left: -3px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .communication-chat {
+    position: absolute;
+    width: 141px;
+    height: 100px;
+    top: 0;
+    left: 105px;
+  }
+  
+  .macbook-pro .click-here-to-try {
+    position: absolute;
+    top: 24px;
+    left: 132px;
+    font-family: var(--body-font-family);
+    font-weight: var(--body-font-weight);
+    color: #000000;
+    font-size: var(--body-font-size);
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+    font-style: var(--body-font-style);
+  }
+  
+  .macbook-pro .text-wrapper-4 {
+    position: absolute;
+    top: 68px;
+    left: 74px;
+    font-family: var(--header-2-font-family);
+    font-weight: var(--header-2-font-weight);
+    color: #12f987;
+    font-size: var(--header-2-font-size);
+    letter-spacing: var(--header-2-letter-spacing);
+    line-height: var(--header-2-line-height);
+    white-space: nowrap;
+    font-style: var(--header-2-font-style);
+  }
+  

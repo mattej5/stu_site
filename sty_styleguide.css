@@ -1,0 +1,23 @@
+:root {
+    --monoblack-60: rgba(0, 0, 0, 0.6);
+    --monoblack-100: rgba(0, 0, 0, 1);
+    --header-2-font-family: "Work Sans", Helvetica;
+    --header-2-font-weight: 700;
+    --header-2-font-size: 20px;
+    --header-2-letter-spacing: -0.4px;
+    --header-2-line-height: normal;
+    --header-2-font-style: normal;
+    --body-font-family: "Work Sans", Helvetica;
+    --body-font-weight: 400;
+    --body-font-size: 12px;
+    --body-letter-spacing: -0.24px;
+    --body-line-height: normal;
+    --body-font-style: normal;
+    --header-1-font-family: "Red Hat Display", Helvetica;
+    --header-1-font-weight: 700;
+    --header-1-font-size: 34px;
+    --header-1-letter-spacing: -0.68px;
+    --header-1-line-height: normal;
+    --header-1-font-style: normal;
+  }
+  
